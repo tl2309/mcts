@@ -1,6 +1,6 @@
-# 📊 DataStorytelling MCTS
+# 📊 M3R
 
-> Intelligent Data Story Generation System Based on Monte Carlo Tree Search (MCTS)
+> Monte Carlo Tree Search-Driven Multi-Agent Framework for Multimodal Report Generation from Tabular Data
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -8,7 +8,7 @@
 
 ## 🎯 Project Overview
 
-DataStorytelling MCTS is an innovative data analysis and visualization system that uses Monte Carlo Tree Search algorithm to automatically generate high-quality data story reports. The system can intelligently analyze datasets, generate relevant charts, and build coherent data narratives, ultimately outputting professional analysis reports.
+M3R is an innovative data analysis and visualization system that uses Monte Carlo Tree Search algorithm to automatically generate high-quality data story reports. The system can intelligently analyze datasets, generate relevant charts, and build coherent data narratives, ultimately outputting professional analysis reports.
 
 ### ✨ Key Features
 
